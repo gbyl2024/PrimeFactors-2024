@@ -1,4 +1,9 @@
+#include<vector>
+using namespace std;
+
 class PrimeFactor {
 public:
-	void of(int i);
+	vector<int> of(int i) {
+		return {};
+	}
 };
